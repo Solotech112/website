@@ -5,8 +5,8 @@
 - [DeadLy](https://t.me./Deadly_spam_bot) DeadLy SpamBot Official Website And Documentation.
 
 ## Credits
-- ```
-- ShaKa
--Blaze Op
+```
+ShaKa
+Blaze Op
 GodFather Akki
 ```
